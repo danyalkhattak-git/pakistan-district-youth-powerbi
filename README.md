@@ -4,7 +4,7 @@ Where are children out of school, teenagers working, and young people neither wo
 
 ![Overview](screenshots/overview.png)
 
-**[Full report as PDF](https://github.com/danyalkhattak-git/pakistan-district-youth-powerbi/blob/c3acf24ccc17119bbefd334c6ae5830dce256fb9/lfs-district-dashboard.pdf)**  ·  Power BI file: [`LFS District Dashboard.pbix`](LFS%20District%20Dashboard.pbix)  ·  template: [`LFS District Dashboard.pbit`](LFS%20District%20Dashboard.pbit)
+**[Full report as PDF](https://github.com/danyalkhattak-git/pakistan-district-youth-powerbi/blob/c3acf24ccc17119bbefd334c6ae5830dce256fb9/lfs-district-dashboard.pdf)**  ·  Power BI file: [`LFS District Dashboard.pbix`](https://github.com/danyalkhattak-git/pakistan-district-youth-powerbi/blob/a6d5b3b71eadebb5e9cdb7f5798508cfe63f1cea/pakistan-district-youth-powerbi.pbix)  ·  template: [`LFS District Dashboard.pbit`](LFS%20District%20Dashboard.pbit)
 
 ## What's in it
 
