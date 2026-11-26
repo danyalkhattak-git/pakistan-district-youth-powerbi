@@ -1,0 +1,10 @@
+# Power BI files and images are binary: never diff or change line endings
+*.pbix  binary
+*.pbit  binary
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+# data files keep consistent line endings
+*.csv      text eol=lf
+*.topojson text eol=lf
+*.md       text eol=lf

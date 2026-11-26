@@ -1,0 +1,12 @@
+# Power BI Desktop local / temporary files
+*.pbix.bak
+.pbi/localSettings.json
+.pbi/cache.abf
+**/.pbi/cache.abf
+~$*
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
